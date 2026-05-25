@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+pandas
+scikit-learn>=1.6.1
+joblib
+google-genai
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+tiktoken
+faiss-cpu
+langchain-huggingface
+sentence-transformers
+pypdf
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+email-validator
+ultralytics         # YOLOv8 — food detection model
+Pillow              # image loading for food detector
